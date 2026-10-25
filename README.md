@@ -13,14 +13,14 @@ This project studies the use of GraphSAGE in cluster head selection algorithms f
 
 ## Methods
 
-| Method | GA / Non-GA | To Know More |
-|---|---|---|
-| Canonical GA | GA | [View Method](https://github.com/ReCluster-net-FT/comparative_study_of_clustering/tree/main/Canonical_ga) |
-| NCOGA | GA | [View Method](https://github.com/ReCluster-net-FT/comparative_study_of_clustering/tree/main/NCOGA) |
-| MOGA + LSA | GA | [View Method](https://github.com/ReCluster-net-FT/comparative_study_of_clustering/tree/main/MOGA_LSA) |
-| OCHSAT | Non-GA | [View Method](https://github.com/ReCluster-net-FT/comparative_study_of_clustering/tree/main/OCHSAT) |
-| ESCA | Non-GA | [View Method](https://github.com/ReCluster-net-FT/comparative_study_of_clustering/tree/main/ESCA_IGHND) |
-| IGHND | Non-GA | [View Method](https://github.com/ReCluster-net-FT/comparative_study_of_clustering/tree/main/ESCA_IGHND) |
+| Method | GA / Non-GA | To Know More | Member |
+|---|---|---|---|
+| Canonical GA | GA | [View Method](https://github.com/ReCluster-net-FT/comparative_study_of_clustering/tree/main/Canonical_ga) | [Devika Unnikrishnan](https://github.com/DevikaUk) |
+| NCOGA | GA | [View Method](https://github.com/ReCluster-net-FT/comparative_study_of_clustering/tree/main/NCOGA) | [Krishna Deepak](https://github.com/krisndeep) |
+| MOGA + LSA | GA | [View Method](https://github.com/ReCluster-net-FT/comparative_study_of_clustering/tree/main/MOGA_LSA) | [Siddhartha Gopala](https://github.com/Siddhartha121220) |
+| OCHSAT | Non-GA | [View Method](https://github.com/ReCluster-net-FT/comparative_study_of_clustering/tree/main/OCHSAT) | [Yogini Aishwaryaa P T S](https://github.com/yoginiaishwaryaa) |
+| ESCA | Non-GA | [View Method](https://github.com/ReCluster-net-FT/comparative_study_of_clustering/tree/main/ESCA_IGHND) | [Kanishka D](https://github.com/d-kanishka) |
+| IGHND | Non-GA | [View Method](https://github.com/ReCluster-net-FT/comparative_study_of_clustering/tree/main/ESCA_IGHND) | [Kanishka D](https://github.com/d-kanishka) |
 
 ## Evaluation Metrics
 
