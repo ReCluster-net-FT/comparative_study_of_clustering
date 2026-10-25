@@ -1,0 +1,338 @@
+{
+  "seeds": [
+    42,
+    101,
+    202,
+    303,
+    404
+  ],
+  "scenarios": [
+    "SCEN#1",
+    "SCEN#2",
+    "SCEN#3",
+    "SCEN#4"
+  ],
+  "results": {
+    "SCEN#1": {
+      "AHP-TOPSIS": {
+        "fnd": {
+          "values": [
+            678,
+            684,
+            819,
+            686,
+            833
+          ],
+          "mean": 740.0,
+          "std": 78.71785058041155
+        },
+        "hnd": {
+          "values": [
+            1181,
+            1158,
+            1286,
+            1202,
+            1288
+          ],
+          "mean": 1223.0,
+          "std": 60.4648658313239
+        },
+        "lnd": {
+          "values": [
+            1255,
+            1231,
+            1325,
+            1222,
+            1333
+          ],
+          "mean": 1273.2,
+          "std": 52.423277272600956
+        },
+        "mean_final_avg_residual_energy": 0.0,
+        "agreement_rate_mean": null,
+        "change_rate_mean": null,
+        "score_correlation_mean": null
+      },
+      "AHP-TOPSIS+GraphSAGE": {
+        "fnd": {
+          "values": [
+            708,
+            704,
+            622,
+            686,
+            404
+          ],
+          "mean": 624.8,
+          "std": 128.16083645170235
+        },
+        "hnd": {
+          "values": [
+            1123,
+            1107,
+            1038,
+            1129,
+            1020
+          ],
+          "mean": 1083.4,
+          "std": 50.707987536481866
+        },
+        "lnd": {
+          "values": [
+            1794,
+            1804,
+            2172,
+            1825,
+            2430
+          ],
+          "mean": 2005.0,
+          "std": 285.41023107099716
+        },
+        "mean_final_avg_residual_energy": 0.0,
+        "agreement_rate_mean": 0.08821616238806457,
+        "change_rate_mean": 0.7466926317399991,
+        "score_correlation_mean": -0.744151500526501
+      }
+    },
+    "SCEN#2": {
+      "AHP-TOPSIS": {
+        "fnd": {
+          "values": [
+            625,
+            693,
+            781,
+            636,
+            833
+          ],
+          "mean": 713.6,
+          "std": 90.96043095764223
+        },
+        "hnd": {
+          "values": [
+            1166,
+            1114,
+            1187,
+            1163,
+            1172
+          ],
+          "mean": 1160.4,
+          "std": 27.53724750224684
+        },
+        "lnd": {
+          "values": [
+            1197,
+            1223,
+            1343,
+            1226,
+            1361
+          ],
+          "mean": 1270.0,
+          "std": 75.9670981412348
+        },
+        "mean_final_avg_residual_energy": 0.0,
+        "agreement_rate_mean": null,
+        "change_rate_mean": null,
+        "score_correlation_mean": null
+      },
+      "AHP-TOPSIS+GraphSAGE": {
+        "fnd": {
+          "values": [
+            672,
+            703,
+            423,
+            715,
+            316
+          ],
+          "mean": 565.8,
+          "std": 183.81702859093332
+        },
+        "hnd": {
+          "values": [
+            1166,
+            1116,
+            1009,
+            1159,
+            943
+          ],
+          "mean": 1078.6,
+          "std": 98.40376009076076
+        },
+        "lnd": {
+          "values": [
+            1205,
+            1234,
+            2180,
+            1711,
+            2332
+          ],
+          "mean": 1732.4,
+          "std": 521.2670141108106
+        },
+        "mean_final_avg_residual_energy": 0.0,
+        "agreement_rate_mean": 0.045493881101988994,
+        "change_rate_mean": 0.5964616542614662,
+        "score_correlation_mean": -0.7498107773422347
+      }
+    },
+    "SCEN#3": {
+      "AHP-TOPSIS": {
+        "fnd": {
+          "values": [
+            700,
+            639,
+            749,
+            726,
+            679
+          ],
+          "mean": 698.6,
+          "std": 42.51235114646095
+        },
+        "hnd": {
+          "values": [
+            1263,
+            1178,
+            1281,
+            1269,
+            1240
+          ],
+          "mean": 1246.2,
+          "std": 40.935314827175816
+        },
+        "lnd": {
+          "values": [
+            1292,
+            1226,
+            1307,
+            1302,
+            1257
+          ],
+          "mean": 1276.8,
+          "std": 34.46302366305081
+        },
+        "mean_final_avg_residual_energy": 0.0,
+        "agreement_rate_mean": null,
+        "change_rate_mean": null,
+        "score_correlation_mean": null
+      },
+      "AHP-TOPSIS+GraphSAGE": {
+        "fnd": {
+          "values": [
+            701,
+            646,
+            772,
+            719,
+            694
+          ],
+          "mean": 706.4,
+          "std": 45.533504148044656
+        },
+        "hnd": {
+          "values": [
+            1144,
+            1179,
+            1129,
+            1147,
+            1172
+          ],
+          "mean": 1154.2,
+          "std": 20.753312988532695
+        },
+        "lnd": {
+          "values": [
+            2246,
+            1235,
+            2257,
+            2254,
+            1943
+          ],
+          "mean": 1987.0,
+          "std": 441.22273286855926
+        },
+        "mean_final_avg_residual_energy": 0.0,
+        "agreement_rate_mean": 0.10337679064356622,
+        "change_rate_mean": 0.6365025137519934,
+        "score_correlation_mean": -0.7501098822275135
+      }
+    },
+    "SCEN#4": {
+      "AHP-TOPSIS": {
+        "fnd": {
+          "values": [
+            708,
+            606,
+            729,
+            704,
+            685
+          ],
+          "mean": 686.4,
+          "std": 47.58466139419298
+        },
+        "hnd": {
+          "values": [
+            1207,
+            1171,
+            1223,
+            1225,
+            1201
+          ],
+          "mean": 1205.4,
+          "std": 21.789905919943756
+        },
+        "lnd": {
+          "values": [
+            1299,
+            1231,
+            1300,
+            1280,
+            1257
+          ],
+          "mean": 1273.4,
+          "std": 29.466930617219024
+        },
+        "mean_final_avg_residual_energy": 0.0,
+        "agreement_rate_mean": null,
+        "change_rate_mean": null,
+        "score_correlation_mean": null
+      },
+      "AHP-TOPSIS+GraphSAGE": {
+        "fnd": {
+          "values": [
+            713,
+            629,
+            761,
+            738,
+            672
+          ],
+          "mean": 702.6,
+          "std": 52.738031817655084
+        },
+        "hnd": {
+          "values": [
+            1159,
+            1170,
+            1114,
+            1148,
+            1199
+          ],
+          "mean": 1158.0,
+          "std": 31.072495876578696
+        },
+        "lnd": {
+          "values": [
+            1996,
+            1239,
+            2116,
+            2050,
+            1855
+          ],
+          "mean": 1851.2,
+          "std": 355.46124964614637
+        },
+        "mean_final_avg_residual_energy": 0.0,
+        "agreement_rate_mean": 0.11115505190255477,
+        "change_rate_mean": 0.468564725670539,
+        "score_correlation_mean": -0.7428604382098667
+      }
+    }
+  },
+  "k_sweep": {}
+}
